@@ -16,7 +16,6 @@
 ## sql practice
 
 1. Find the title of each film
-
      `Select Title from movie`
 2. Find the director of each film
      `SELECT director FROM movies;`
