@@ -44,5 +44,8 @@ They all will be selecting only distinc values
 
 ![asa](https://github.com/sabeshshaswath/notes/blob/april_29/Screenshot%202024-04-29%20142733.png)
 
-![db](Screenshot%202024-04-24%20121231.png)
+# kinda loops
 
+![asa](https://github.com/sabeshshaswath/notes/blob/april_29/imagesaa.png)
+
+![sasa](https://github.com/sabeshshaswath/notes/blob/april_29/image.png)
